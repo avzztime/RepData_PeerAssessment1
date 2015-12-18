@@ -1,3 +1,5 @@
+## Modified to include latest changes as of December 18,2015
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
